@@ -4,14 +4,14 @@ Ce repository contient le code source JavaScript de l'interface électeur des é
 
 ## Document de spécifications
 
-**[📄 Spécifications publiques VPI - meae_vpi_n_specs_PUBLIQUES-1-0.pdf](https://github.com/Voxaly/Voxaly-meae-legislative-2027/releases/download/meae-vpi-4.16.2/meae_vpi_n_specs_PUBLIQUES-1-0.pdf)**
+**[📄 Spécifications publiques VPI - meae_vpi_n_specs_PUBLIQUES-1-1.pdf](meae_vpi_n_specs_PUBLIQUES-1-1.pdf)**
 
 Ce document décrit les spécifications techniques et fonctionnelles du système de vote par internet (VPI).
 
 ## Informations de publication
 
 - **Version** : meae-vpi-4.16.2
-- **Date** : 2026-10-01 09:03:24
+- **Date** : 2026-10-12 16:56:26
 - **Commit** : 6a9af77
 - **Auteur** : jenkins
 
@@ -150,8 +150,8 @@ Les checksums calculés doivent correspondre **exactement** à ceux listés ci-d
 #### 1. Cloner et installer
 
 ```bash
-git clone https://github.com/Voxaly/Voxaly-meae-legislative-2027.git
-cd Voxaly-meae-legislative-2027
+git clone https://github.com/Voxaly/meae-legislative-2027.git
+cd meae-legislative-2027
 npm ci
 ```
 
